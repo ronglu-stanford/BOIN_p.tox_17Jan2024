@@ -1,6 +1,6 @@
 # Should the choice of BOIN design parameter p.tox only depend on the target DLT rate?
 
-# KEY POINTS 
+## ------------------- KEY POINTS 
 ## Question: 
 When is setting the BOIN design parameter p.tox = 1.4 * target.DLT.rate not a great idea?
 
